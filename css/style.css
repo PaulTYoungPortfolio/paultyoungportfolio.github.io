@@ -9,5 +9,14 @@
     border-radius: 50%;
     display: block;
     margin:50px auto;
-    
+
+}
+
+button {
+    background-color: blue;
+    color: yellow;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
 }
