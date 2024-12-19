@@ -3,11 +3,3 @@
     padding:0px;
     box-sizing: border-box;
 }
-.image2 img{
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
-    display: block;
-    margin:50px auto;
-
-}
